@@ -1,0 +1,31 @@
+{
+  "name": "seriously",
+  "version": "1.0.0",
+  "description": "A real-time, node-based video effects compositor for the web built with HTML5, Javascript and WebGL",
+  "main": "seriously.js",
+  "directories": {
+    "example": "examples",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Cadiac/Seriously.js.git"
+  },
+  "keywords": [
+    "real-time",
+    "video",
+    "effects",
+    "html5",
+    "webgl",
+    "canvas"
+  ],
+  "author": "Brian Chirls",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Cadiac/Seriously.js/issues"
+  },
+  "homepage": "https://github.com/Cadiac/Seriously.js#readme"
+}
